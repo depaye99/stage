@@ -30,6 +30,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/hr/interns/page.js"
+    ],
+    "/dashboard/tutor/interns/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dashboard/tutor/interns/page.js"
     ]
   }
 }
